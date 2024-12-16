@@ -50,7 +50,3 @@ python detect_path.py --input <parsed_logs> --rules <ground_truth>
 ________________________________________
 Datasets
 The framework has been validated using the DARPA Transparent Computing dataset. Please ensure compliance with the dataset's licensing and usage terms.
-________________________________________
-License
-This repository is licensed under the MIT License. Feel free to use and modify it for academic and research purposes.
-
